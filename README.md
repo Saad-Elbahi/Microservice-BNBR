@@ -33,3 +33,6 @@ Make sure you have the following installed:
 
 - Java Development Kit (JDK)
 - Maven
+## Postmen
+![WhatsApp Image 2023-12-21 at 23 50 23](https://github.com/Saad-Elbahi/Microservice-BNBR/assets/96077799/5c7014af-deab-4510-8c51-41e4d6b3c3ef)
+![WhatsApp Image 2023-12-21 at 23 50 34](https://github.com/Saad-Elbahi/Microservice-BNBR/assets/96077799/8fbb394f-c939-450b-9592-6ad9b1557d0c)
